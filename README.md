@@ -66,8 +66,11 @@ python task_2.py
 
 Використано стек для зберігання відкритих дужок.
 Запуск
+
 Windows (рекомендовано):
+
 py .\task_3.py
 
 macOS / Linux / або якщо працює python у PATH:
+
 python task_3.py
